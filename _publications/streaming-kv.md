@@ -5,7 +5,7 @@ authors: "Brenda A. Brown, Priya Raman"
 venue: "ICML 2026"
 year: 2026
 type: conference
-codeurl: "https://github.com/wholetherapi/emails_github_pptx_filesystem_pdf-tools_301-streaming-kv-w7q4z9"
+codeurl: "https://github.com/mirror-lab/streaming-kv-compression"
 citation: "B. A. Brown, P. Raman. Streaming KV-Cache Compression for Memory-Bounded Decoding. ICML 2026 (2026)."
 ---
 
